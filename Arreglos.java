@@ -8,6 +8,7 @@ public class Arreglos {
             calculo [x]=Byte.parseByte(JOptionPane.showInputDialog("Ingresa la calificacion de la unidad" +(x+1)));
          sumatoria+=calculo[x];
         }
+        //primer codigo de arrgloes
         for(x=0;x<6;x++){
             System.out.print (titulos[x]+"\t");
         } 
