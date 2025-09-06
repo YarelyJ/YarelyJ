@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+
+div{
+    background-color: royalblue;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    border: 3px solid black;
+    border-radius: 8px;
+}
+
+input{
+    margin: 5px;
+    padding: 6px 9px;
+    border: node;
+    border-bottom: 1px solid blue;
+    background: transparent;
+}
+
