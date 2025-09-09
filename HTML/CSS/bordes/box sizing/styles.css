@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.box { 
+    width: 100px;
+    height: 100px;
+    background: blueviolet;
+    margin: 10px;
+}
+
+.box-defaul{
+    box-sizing: border-box;
+    padding: 30px;
+    border: 10px solid black;
+}
+
+.box-new{
+    box-sizing: border-box;
+    padding: 30px;
+    border: 10px solid black;
+}
