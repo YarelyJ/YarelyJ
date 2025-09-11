@@ -1,0 +1,28 @@
+body{
+    background-color: #cad;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.box{
+    width: 600%;
+    height: 600px;
+    margin: 20px;
+    margin: 0;
+    background: url("https://swebtoon-phinf.pstatic.net/20240920_249/1726794294738ulVy2_JPEG/97EpisodeList_Mobile.jpg?type=crop540_540") center / cover fixed #808;
+
+    /*background-repeat: no-repeat;*/
+}
+
+.opaco{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+}
+
+h2{
+    padding: 20px;
+    text-align: center;
+}
+/*contain-->obliga a la imagen a que entre en el espacion que se le io por lo menos una vez entera
+se adapte no importa la dimencion pero que entre completa
